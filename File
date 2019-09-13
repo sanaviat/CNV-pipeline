@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+fileIn=$1
+fileOut=$2
+
+perl /NBICseq-norm_v0.2.4/normalize.pl
